@@ -3,7 +3,7 @@ Version:	57866
 Release:	2
 Summary:	Incremental slides
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/overlays
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/overlays
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/overlays.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/overlays.doc.r%{version}.tar.xz
